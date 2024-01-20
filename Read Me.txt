@@ -1,0 +1,16 @@
+Terminado
+https://www.youtube.com/watch?v=ZxMB6Njs3ck
+
+Solucionar = Colores del chat
+
+comando para instalar pillow = python -m pip install Pillow
+
+
+*************( Retos - Para agregarle )******************
+
+1. Logout.
+2. JQuery animados.
+3. Chat en vivo.
+4. Sistema de pago directo a whatsapp.
+5. Sistema de pago profesional.
+6. 
